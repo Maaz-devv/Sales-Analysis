@@ -91,8 +91,8 @@ Interactive **city slicers** on the left and a **date slicer** on the top right 
  ┗ 📜 LICENSE
 ```
 ---
-📌 **Contributors:** [Your Name]
+📌 **Contributors:** [Muhammad Maaz]
 📌 **Tools Used:** SQL, Power BI, MySQL, Python
 📌 **Database:** MySQL (1,000 records)
-📌 **License:** MIT License
+
 
