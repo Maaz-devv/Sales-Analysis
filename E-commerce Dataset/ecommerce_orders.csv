@@ -1,0 +1,1001 @@
+Order_ID,City,Product,Order_Date,Quantity,Order_Status
+1,MUL,Electric Kettle - Dawlance 1.7L Kettle,23-Jan-25,1,Shipped
+2,MUL,Electric Kettle - Dawlance 1.7L Kettle,5-Nov-24,1,Shipped
+3,KHI,Power Bank - Romoss 20000mAh,15-Sep-24,2,Shipped
+4,MUL,Wireless Earbuds - Audionic AirBuds 2,7-Jul-24,3,Shipped
+5,KHI,Wall Clock - Quartz Designer Clock,7-Oct-24,3,Shipped
+6,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,5-Jul-24,1,Returned
+7,ISB,Women's Handbag - Stylo Leather Bag,13-Apr-24,1,Returned
+8,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,3-Nov-24,3,Returned
+9,MUL,Wall Clock - Quartz Designer Clock,17-Jan-25,1,Returned
+10,LHE,Men's Sneakers - Servis Cheetah Shoes,18-Jun-24,3,Returned
+11,MUL,Non-Stick Cookware Set - Prestige 5-Piece,24-Sep-24,1,Shipped
+12,KHI,Men's Sneakers - Servis Cheetah Shoes,3-Apr-24,3,Shipped
+13,LHE,Electric Kettle - Dawlance 1.7L Kettle,16-Mar-24,1,Returned
+14,KHI,Smartwatch - Xiaomi Mi Band 7,20-Mar-24,1,Returned
+15,MUL,Gaming Mouse - Redragon M711 Cobra,8-Mar-24,3,Returned
+16,KHI,Gaming Mouse - Redragon M711 Cobra,23-Apr-24,1,Returned
+17,KHI,Wall Clock - Quartz Designer Clock,23-Apr-24,1,Returned
+18,KHI,Men's Kurta - J. Cotton Kurta,11-Apr-24,3,Shipped
+19,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,23-Dec-24,3,Shipped
+20,LHE,Rice Cooker - Westpoint 1.8L Rice Cooker,14-Aug-24,2,Shipped
+21,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,12-May-24,1,Shipped
+22,LHE,Power Bank - Romoss 20000mAh,11-Dec-24,1,Shipped
+23,ISB,Women's Handbag - Stylo Leather Bag,15-Jan-24,2,Shipped
+24,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,4-Jul-24,3,Returned
+25,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,2-Jan-24,1,Returned
+26,KHI,Non-Stick Cookware Set - Prestige 5-Piece,27-Oct-24,3,Returned
+27,KHI,Wall Clock - Quartz Designer Clock,11-Jan-24,1,Returned
+28,LHE,Wall Clock - Quartz Designer Clock,29-Sep-24,3,Returned
+29,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,20-Jan-24,3,Shipped
+30,ISB,Men's Sneakers - Servis Cheetah Shoes,12-Sep-24,3,Returned
+31,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,29-Apr-24,1,Shipped
+32,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,29-Mar-24,3,Returned
+33,ISB,Wireless Earbuds - Audionic AirBuds 2,24-May-24,2,Returned
+34,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,24-Sep-24,3,Returned
+35,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,15-Jan-24,2,Shipped
+36,MUL,Men's Sneakers - Servis Cheetah Shoes,1-Sep-24,3,Returned
+37,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,23-Apr-24,3,Returned
+38,MUL,Men's Sneakers - Servis Cheetah Shoes,27-May-24,1,Returned
+39,LHE,Wall Clock - Quartz Designer Clock,8-Nov-24,3,Returned
+40,LHE,Wall Clock - Quartz Designer Clock,3-Mar-24,3,Shipped
+41,ISB,Men's Kurta - J. Cotton Kurta,13-Apr-24,3,Returned
+42,KHI,Wall Clock - Quartz Designer Clock,6-Mar-24,1,Returned
+43,LHE,Gaming Mouse - Redragon M711 Cobra,7-Sep-24,2,Returned
+44,ISB,Wall Clock - Quartz Designer Clock,10-Feb-24,2,Shipped
+45,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,24-Jul-24,3,Shipped
+46,MUL,Electric Kettle - Dawlance 1.7L Kettle,23-Mar-24,2,Shipped
+47,LHE,Rice Cooker - Westpoint 1.8L Rice Cooker,18-Dec-24,2,Returned
+48,LHE,Wall Clock - Quartz Designer Clock,15-Dec-24,2,Returned
+49,MUL,Non-Stick Cookware Set - Prestige 5-Piece,17-Mar-24,3,Returned
+50,MUL,Women's Handbag - Stylo Leather Bag,2-Mar-24,1,Shipped
+51,MUL,Non-Stick Cookware Set - Prestige 5-Piece,29-May-24,3,Returned
+52,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,18-Jul-24,2,Shipped
+53,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,9-Jan-24,3,Returned
+54,KHI,Men's Kurta - J. Cotton Kurta,16-Jan-25,2,Shipped
+55,LHE,Wireless Earbuds - Audionic AirBuds 2,2-Nov-24,2,Returned
+56,KHI,Non-Stick Cookware Set - Prestige 5-Piece,18-Apr-24,2,Shipped
+57,KHI,Smartwatch - Xiaomi Mi Band 7,24-Nov-24,3,Returned
+58,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,4-Jul-24,1,Returned
+59,KHI,Gaming Mouse - Redragon M711 Cobra,25-Jun-24,1,Shipped
+60,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,8-Jul-24,3,Shipped
+61,KHI,Women's Lawn Suit - Khaadi 3-Piece Lawn,12-Jan-24,3,Returned
+62,KHI,Power Bank - Romoss 20000mAh,31-May-24,1,Shipped
+63,MUL,Rice Cooker - Westpoint 1.8L Rice Cooker,5-Sep-24,1,Shipped
+64,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,6-Jan-25,2,Returned
+65,KHI,Women's Lawn Suit - Khaadi 3-Piece Lawn,14-Feb-24,3,Shipped
+66,KHI,Electric Kettle - Dawlance 1.7L Kettle,23-Nov-24,3,Returned
+67,KHI,Women's Lawn Suit - Khaadi 3-Piece Lawn,26-Jan-25,2,Shipped
+68,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,5-Jan-24,3,Returned
+69,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,29-Aug-24,1,Returned
+70,ISB,Non-Stick Cookware Set - Prestige 5-Piece,6-Apr-24,3,Returned
+71,MUL,Wireless Earbuds - Audionic AirBuds 2,16-Nov-24,3,Returned
+72,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,24-Jan-24,3,Shipped
+73,ISB,Men's Sneakers - Servis Cheetah Shoes,15-Oct-24,1,Shipped
+74,KHI,Wireless Earbuds - Audionic AirBuds 2,13-Aug-24,3,Shipped
+75,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,1-May-24,2,Shipped
+76,KHI,Men's Kurta - J. Cotton Kurta,29-Apr-24,3,Shipped
+77,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,7-Feb-24,1,Shipped
+78,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,12-Feb-24,3,Returned
+79,MUL,Wireless Earbuds - Audionic AirBuds 2,23-Aug-24,2,Shipped
+80,MUL,Electric Kettle - Dawlance 1.7L Kettle,28-Nov-24,1,Returned
+81,KHI,Smartwatch - Xiaomi Mi Band 7,28-Jun-24,3,Shipped
+82,ISB,Wireless Earbuds - Audionic AirBuds 2,15-Apr-24,3,Shipped
+83,ISB,Electric Kettle - Dawlance 1.7L Kettle,14-Apr-24,2,Returned
+84,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,12-Jan-25,2,Returned
+85,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,5-Jul-24,3,Shipped
+86,MUL,Non-Stick Cookware Set - Prestige 5-Piece,24-Aug-24,1,Shipped
+87,KHI,Wireless Earbuds - Audionic AirBuds 2,2-Oct-24,3,Returned
+88,KHI,Men's Sneakers - Servis Cheetah Shoes,16-Nov-24,2,Shipped
+89,MUL,Women's Handbag - Stylo Leather Bag,17-Apr-24,2,Returned
+90,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,20-Oct-24,2,Returned
+91,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,10-Aug-24,2,Shipped
+92,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,9-Jun-24,1,Shipped
+93,LHE,Men's Sneakers - Servis Cheetah Shoes,1-Jul-24,1,Shipped
+94,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,17-Dec-24,2,Shipped
+95,MUL,Men's Kurta - J. Cotton Kurta,30-Mar-24,3,Returned
+96,ISB,Smartwatch - Xiaomi Mi Band 7,4-Feb-24,2,Returned
+97,KHI,Women's Handbag - Stylo Leather Bag,1-Nov-24,1,Shipped
+98,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,17-Feb-24,1,Returned
+99,LHE,Men's Sneakers - Servis Cheetah Shoes,10-Nov-24,2,Returned
+100,LHE,Women's Handbag - Stylo Leather Bag,24-Oct-24,3,Shipped
+101,KHI,Men's Sneakers - Servis Cheetah Shoes,23-Jul-24,2,Returned
+102,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,4-Dec-24,1,Returned
+103,LHE,Electric Kettle - Dawlance 1.7L Kettle,24-Aug-24,3,Shipped
+104,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,15-May-24,3,Shipped
+105,ISB,Men's Sneakers - Servis Cheetah Shoes,29-Apr-24,3,Shipped
+106,KHI,Gaming Mouse - Redragon M711 Cobra,15-Feb-24,2,Shipped
+107,KHI,Women's Handbag - Stylo Leather Bag,13-May-24,3,Shipped
+108,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,17-Jan-25,2,Shipped
+109,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,26-Nov-24,1,Shipped
+110,MUL,Gaming Mouse - Redragon M711 Cobra,22-Apr-24,2,Returned
+111,ISB,Women's Handbag - Stylo Leather Bag,20-May-24,3,Returned
+112,LHE,Smartwatch - Xiaomi Mi Band 7,15-Aug-24,1,Shipped
+113,LHE,Men's Kurta - J. Cotton Kurta,7-Jan-25,2,Returned
+114,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,10-Feb-24,1,Returned
+115,LHE,Men's Kurta - J. Cotton Kurta,3-Oct-24,1,Shipped
+116,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,26-Jul-24,1,Shipped
+117,MUL,Men's Kurta - J. Cotton Kurta,29-Apr-24,3,Shipped
+118,LHE,Non-Stick Cookware Set - Prestige 5-Piece,7-Dec-24,1,Shipped
+119,LHE,Smartwatch - Xiaomi Mi Band 7,3-Apr-24,1,Returned
+120,LHE,Wireless Earbuds - Audionic AirBuds 2,17-Feb-24,2,Shipped
+121,KHI,Wall Clock - Quartz Designer Clock,14-Jun-24,1,Shipped
+122,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,4-Aug-24,1,Shipped
+123,LHE,Women's Handbag - Stylo Leather Bag,21-Jan-24,2,Returned
+124,KHI,Men's Sneakers - Servis Cheetah Shoes,13-Jun-24,3,Returned
+125,MUL,Wall Clock - Quartz Designer Clock,25-Nov-24,3,Shipped
+126,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,5-Nov-24,3,Shipped
+127,MUL,Smartwatch - Xiaomi Mi Band 7,5-Feb-24,1,Returned
+128,MUL,Power Bank - Romoss 20000mAh,13-Apr-24,2,Returned
+129,ISB,Non-Stick Cookware Set - Prestige 5-Piece,19-Apr-24,3,Shipped
+130,LHE,Women's Handbag - Stylo Leather Bag,13-Jan-25,2,Returned
+131,ISB,Electric Kettle - Dawlance 1.7L Kettle,8-Aug-24,1,Returned
+132,MUL,Non-Stick Cookware Set - Prestige 5-Piece,26-Mar-24,1,Returned
+133,MUL,Men's Kurta - J. Cotton Kurta,12-May-24,1,Returned
+134,ISB,Gaming Mouse - Redragon M711 Cobra,30-Mar-24,1,Returned
+135,KHI,Gaming Mouse - Redragon M711 Cobra,29-Dec-24,2,Shipped
+136,LHE,Non-Stick Cookware Set - Prestige 5-Piece,7-Apr-24,1,Returned
+137,MUL,Wireless Earbuds - Audionic AirBuds 2,6-Nov-24,3,Returned
+138,ISB,Women's Handbag - Stylo Leather Bag,4-Oct-24,1,Shipped
+139,ISB,Electric Kettle - Dawlance 1.7L Kettle,7-Oct-24,3,Shipped
+140,ISB,Smartwatch - Xiaomi Mi Band 7,17-Feb-24,1,Returned
+141,KHI,Wall Clock - Quartz Designer Clock,15-Apr-24,1,Shipped
+142,KHI,Men's Kurta - J. Cotton Kurta,19-Feb-24,1,Returned
+143,ISB,Power Bank - Romoss 20000mAh,7-Apr-24,2,Returned
+144,KHI,Non-Stick Cookware Set - Prestige 5-Piece,22-Oct-24,1,Returned
+145,KHI,Women's Lawn Suit - Khaadi 3-Piece Lawn,10-Dec-24,1,Shipped
+146,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,7-Aug-24,3,Returned
+147,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,26-Feb-24,1,Returned
+148,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,27-May-24,2,Returned
+149,ISB,Non-Stick Cookware Set - Prestige 5-Piece,9-May-24,1,Returned
+150,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,29-Dec-24,3,Returned
+151,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,18-Jan-25,2,Shipped
+152,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,26-Jun-24,2,Returned
+153,ISB,Gaming Mouse - Redragon M711 Cobra,9-Jul-24,3,Returned
+154,MUL,Men's Kurta - J. Cotton Kurta,17-Nov-24,1,Shipped
+155,LHE,Men's Sneakers - Servis Cheetah Shoes,9-May-24,3,Shipped
+156,ISB,Smartwatch - Xiaomi Mi Band 7,8-Aug-24,1,Returned
+157,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,3-Jul-24,3,Returned
+158,KHI,Women's Lawn Suit - Khaadi 3-Piece Lawn,9-May-24,3,Shipped
+159,ISB,Men's Kurta - J. Cotton Kurta,2-Feb-24,1,Returned
+160,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,16-Oct-24,3,Returned
+161,ISB,Men's Sneakers - Servis Cheetah Shoes,27-Jan-24,3,Returned
+162,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,2-Dec-24,2,Shipped
+163,LHE,Power Bank - Romoss 20000mAh,12-Aug-24,1,Shipped
+164,ISB,Wireless Earbuds - Audionic AirBuds 2,17-Jul-24,1,Shipped
+165,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,24-Jun-24,1,Shipped
+166,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,5-Feb-24,3,Returned
+167,ISB,Women's Handbag - Stylo Leather Bag,28-May-24,2,Shipped
+168,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,23-Dec-24,1,Shipped
+169,KHI,Wall Clock - Quartz Designer Clock,29-Jan-24,2,Returned
+170,MUL,Electric Kettle - Dawlance 1.7L Kettle,24-Dec-24,2,Shipped
+171,ISB,Non-Stick Cookware Set - Prestige 5-Piece,23-Sep-24,1,Returned
+172,LHE,Wireless Earbuds - Audionic AirBuds 2,2-Jul-24,3,Shipped
+173,LHE,Wall Clock - Quartz Designer Clock,17-Feb-24,2,Shipped
+174,MUL,Electric Kettle - Dawlance 1.7L Kettle,22-Jun-24,1,Shipped
+175,ISB,Women's Handbag - Stylo Leather Bag,10-Sep-24,2,Returned
+176,KHI,Men's Sneakers - Servis Cheetah Shoes,24-May-24,3,Returned
+177,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,21-Jan-24,2,Shipped
+178,LHE,Women's Handbag - Stylo Leather Bag,28-Nov-24,1,Shipped
+179,ISB,Men's Kurta - J. Cotton Kurta,20-Mar-24,3,Returned
+180,ISB,Non-Stick Cookware Set - Prestige 5-Piece,3-Nov-24,3,Shipped
+181,MUL,Rice Cooker - Westpoint 1.8L Rice Cooker,4-Jun-24,2,Returned
+182,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,23-Mar-24,2,Returned
+183,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,21-Jun-24,2,Shipped
+184,MUL,Women's Handbag - Stylo Leather Bag,8-Aug-24,3,Shipped
+185,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,15-Dec-24,2,Returned
+186,KHI,Smartwatch - Xiaomi Mi Band 7,7-Sep-24,2,Returned
+187,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,13-Dec-24,1,Shipped
+188,KHI,Gaming Mouse - Redragon M711 Cobra,12-Feb-24,2,Shipped
+189,LHE,Women's Handbag - Stylo Leather Bag,22-May-24,2,Returned
+190,KHI,Men's Kurta - J. Cotton Kurta,23-Aug-24,3,Returned
+191,LHE,Smartwatch - Xiaomi Mi Band 7,22-Sep-24,3,Returned
+192,ISB,Men's Sneakers - Servis Cheetah Shoes,2-Mar-24,3,Shipped
+193,MUL,Gaming Mouse - Redragon M711 Cobra,4-Nov-24,1,Shipped
+194,LHE,Gaming Mouse - Redragon M711 Cobra,19-Mar-24,1,Shipped
+195,LHE,Non-Stick Cookware Set - Prestige 5-Piece,4-May-24,2,Returned
+196,ISB,Wireless Earbuds - Audionic AirBuds 2,14-Nov-24,1,Returned
+197,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,31-Mar-24,1,Returned
+198,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,11-Feb-24,1,Returned
+199,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,24-Jan-24,1,Returned
+200,MUL,Power Bank - Romoss 20000mAh,17-Jul-24,1,Returned
+201,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,7-Dec-24,2,Shipped
+202,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,29-Dec-24,2,Shipped
+203,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,1-May-24,2,Shipped
+204,MUL,Electric Kettle - Dawlance 1.7L Kettle,3-Sep-24,1,Shipped
+205,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,17-Jun-24,2,Returned
+206,ISB,Smartwatch - Xiaomi Mi Band 7,28-Jun-24,3,Returned
+207,ISB,Non-Stick Cookware Set - Prestige 5-Piece,6-Mar-24,2,Shipped
+208,KHI,Wall Clock - Quartz Designer Clock,10-Aug-24,3,Shipped
+209,KHI,Wall Clock - Quartz Designer Clock,28-Jan-25,1,Shipped
+210,KHI,Men's Sneakers - Servis Cheetah Shoes,2-Jan-24,2,Returned
+211,LHE,Electric Kettle - Dawlance 1.7L Kettle,31-Mar-24,3,Shipped
+212,LHE,Men's Kurta - J. Cotton Kurta,29-Jan-25,2,Returned
+213,MUL,Electric Kettle - Dawlance 1.7L Kettle,24-Dec-24,1,Shipped
+214,LHE,Men's Sneakers - Servis Cheetah Shoes,20-Jan-24,3,Shipped
+215,ISB,Non-Stick Cookware Set - Prestige 5-Piece,26-Oct-24,1,Shipped
+216,KHI,Men's Kurta - J. Cotton Kurta,9-Mar-24,3,Returned
+217,LHE,Women's Handbag - Stylo Leather Bag,15-Jan-24,2,Returned
+218,KHI,Women's Lawn Suit - Khaadi 3-Piece Lawn,30-Apr-24,2,Returned
+219,KHI,Men's Sneakers - Servis Cheetah Shoes,7-Aug-24,3,Shipped
+220,MUL,Smartwatch - Xiaomi Mi Band 7,21-Dec-24,3,Shipped
+221,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,20-Sep-24,3,Shipped
+222,KHI,Electric Kettle - Dawlance 1.7L Kettle,25-Mar-24,3,Shipped
+223,ISB,Women's Handbag - Stylo Leather Bag,7-Mar-24,2,Shipped
+224,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,16-Jul-24,3,Shipped
+225,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,28-Apr-24,1,Shipped
+226,KHI,Gaming Mouse - Redragon M711 Cobra,30-Jun-24,3,Shipped
+227,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,27-Jul-24,1,Shipped
+228,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,20-Jun-24,2,Returned
+229,ISB,Women's Handbag - Stylo Leather Bag,29-Sep-24,1,Shipped
+230,LHE,Non-Stick Cookware Set - Prestige 5-Piece,10-Apr-24,3,Returned
+231,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,3-Jul-24,2,Returned
+232,MUL,Wall Clock - Quartz Designer Clock,17-Feb-24,1,Returned
+233,MUL,Men's Sneakers - Servis Cheetah Shoes,24-Dec-24,1,Returned
+234,LHE,Power Bank - Romoss 20000mAh,21-Jan-24,3,Shipped
+235,KHI,Wireless Earbuds - Audionic AirBuds 2,5-Dec-24,3,Returned
+236,ISB,Men's Sneakers - Servis Cheetah Shoes,7-Jan-25,2,Shipped
+237,MUL,Men's Kurta - J. Cotton Kurta,28-Jul-24,2,Shipped
+238,ISB,Men's Kurta - J. Cotton Kurta,15-Mar-24,3,Shipped
+239,LHE,Gaming Mouse - Redragon M711 Cobra,20-Oct-24,1,Returned
+240,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,11-Jun-24,2,Shipped
+241,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,9-Sep-24,1,Returned
+242,LHE,Electric Kettle - Dawlance 1.7L Kettle,22-Jul-24,2,Returned
+243,KHI,Wireless Earbuds - Audionic AirBuds 2,23-Dec-24,1,Returned
+244,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,24-Jan-24,1,Shipped
+245,ISB,Wireless Earbuds - Audionic AirBuds 2,14-May-24,3,Returned
+246,LHE,Rice Cooker - Westpoint 1.8L Rice Cooker,4-Oct-24,3,Returned
+247,ISB,Smartwatch - Xiaomi Mi Band 7,14-Nov-24,3,Returned
+248,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,27-May-24,1,Returned
+249,KHI,Smartwatch - Xiaomi Mi Band 7,22-Apr-24,1,Returned
+250,ISB,Power Bank - Romoss 20000mAh,29-Dec-24,2,Shipped
+251,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,31-Dec-24,1,Shipped
+252,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,22-Dec-24,3,Shipped
+253,MUL,Women's Handbag - Stylo Leather Bag,25-Aug-24,1,Shipped
+254,LHE,Rice Cooker - Westpoint 1.8L Rice Cooker,9-Jan-24,1,Returned
+255,ISB,Men's Sneakers - Servis Cheetah Shoes,12-Feb-24,3,Returned
+256,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,21-Jun-24,3,Returned
+257,MUL,Smartwatch - Xiaomi Mi Band 7,10-Feb-24,1,Shipped
+258,KHI,Gaming Mouse - Redragon M711 Cobra,12-Jun-24,2,Returned
+259,KHI,Non-Stick Cookware Set - Prestige 5-Piece,3-Jan-24,2,Shipped
+260,MUL,Women's Handbag - Stylo Leather Bag,26-Oct-24,1,Shipped
+261,LHE,Men's Kurta - J. Cotton Kurta,25-Jan-25,1,Returned
+262,LHE,Women's Handbag - Stylo Leather Bag,7-Jul-24,2,Shipped
+263,MUL,Wall Clock - Quartz Designer Clock,22-Nov-24,1,Shipped
+264,ISB,Power Bank - Romoss 20000mAh,19-Jan-25,2,Returned
+265,MUL,Gaming Mouse - Redragon M711 Cobra,6-Aug-24,3,Returned
+266,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,2-Dec-24,1,Returned
+267,ISB,Electric Kettle - Dawlance 1.7L Kettle,1-Apr-24,1,Returned
+268,MUL,Wireless Earbuds - Audionic AirBuds 2,13-Jul-24,1,Returned
+269,MUL,Women's Handbag - Stylo Leather Bag,9-Mar-24,1,Shipped
+270,ISB,Men's Sneakers - Servis Cheetah Shoes,26-Jan-25,3,Shipped
+271,ISB,Gaming Mouse - Redragon M711 Cobra,11-Feb-24,1,Returned
+272,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,24-Jun-24,1,Returned
+273,LHE,Smartwatch - Xiaomi Mi Band 7,25-Jan-25,2,Shipped
+274,KHI,Women's Handbag - Stylo Leather Bag,11-Feb-24,2,Shipped
+275,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,27-Nov-24,2,Shipped
+276,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,21-Mar-24,3,Returned
+277,MUL,Women's Handbag - Stylo Leather Bag,22-Jan-25,1,Returned
+278,KHI,Wall Clock - Quartz Designer Clock,9-Dec-24,2,Returned
+279,MUL,Wall Clock - Quartz Designer Clock,17-Sep-24,1,Shipped
+280,LHE,Smartwatch - Xiaomi Mi Band 7,24-Dec-24,2,Shipped
+281,MUL,Smartwatch - Xiaomi Mi Band 7,9-Apr-24,1,Returned
+282,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,30-Nov-24,3,Shipped
+283,MUL,Men's Sneakers - Servis Cheetah Shoes,12-Dec-24,1,Returned
+284,LHE,Women's Handbag - Stylo Leather Bag,22-Oct-24,1,Shipped
+285,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,30-Nov-24,3,Shipped
+286,LHE,Smartwatch - Xiaomi Mi Band 7,15-Jan-25,3,Returned
+287,LHE,Wireless Earbuds - Audionic AirBuds 2,15-Jan-25,2,Shipped
+288,MUL,Wireless Earbuds - Audionic AirBuds 2,8-Dec-24,3,Returned
+289,LHE,Non-Stick Cookware Set - Prestige 5-Piece,12-Oct-24,2,Returned
+290,KHI,Men's Sneakers - Servis Cheetah Shoes,25-Mar-24,1,Returned
+291,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,16-Feb-24,2,Shipped
+292,MUL,Men's Kurta - J. Cotton Kurta,22-Sep-24,1,Shipped
+293,KHI,Wireless Earbuds - Audionic AirBuds 2,23-Sep-24,3,Shipped
+294,ISB,Men's Kurta - J. Cotton Kurta,18-Dec-24,1,Returned
+295,MUL,Power Bank - Romoss 20000mAh,16-Jul-24,3,Returned
+296,LHE,Gaming Mouse - Redragon M711 Cobra,10-Sep-24,3,Shipped
+297,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,17-Jun-24,1,Returned
+298,MUL,Men's Sneakers - Servis Cheetah Shoes,22-Jan-25,3,Returned
+299,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,3-Feb-24,1,Returned
+300,ISB,Non-Stick Cookware Set - Prestige 5-Piece,26-Jul-24,3,Shipped
+301,ISB,Electric Kettle - Dawlance 1.7L Kettle,26-Jun-24,3,Shipped
+302,KHI,Wireless Earbuds - Audionic AirBuds 2,17-Jan-25,1,Shipped
+303,ISB,Gaming Mouse - Redragon M711 Cobra,1-Dec-24,3,Shipped
+304,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,19-Sep-24,2,Shipped
+305,KHI,Wall Clock - Quartz Designer Clock,3-Feb-24,1,Returned
+306,KHI,Wall Clock - Quartz Designer Clock,15-May-24,2,Returned
+307,LHE,Smartwatch - Xiaomi Mi Band 7,23-Aug-24,2,Returned
+308,KHI,Power Bank - Romoss 20000mAh,9-Jan-24,1,Returned
+309,LHE,Gaming Mouse - Redragon M711 Cobra,11-Sep-24,2,Shipped
+310,ISB,Wireless Earbuds - Audionic AirBuds 2,29-Jan-25,2,Returned
+311,ISB,Smartwatch - Xiaomi Mi Band 7,20-Oct-24,2,Returned
+312,MUL,Men's Sneakers - Servis Cheetah Shoes,4-Dec-24,2,Returned
+313,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,29-Jul-24,2,Shipped
+314,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,3-Nov-24,2,Shipped
+315,LHE,Wireless Earbuds - Audionic AirBuds 2,27-Dec-24,2,Shipped
+316,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,1-Jan-24,1,Returned
+317,LHE,Non-Stick Cookware Set - Prestige 5-Piece,15-Nov-24,2,Returned
+318,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,8-Mar-24,1,Shipped
+319,MUL,Men's Sneakers - Servis Cheetah Shoes,17-Feb-24,2,Returned
+320,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,9-Apr-24,3,Shipped
+321,LHE,Wall Clock - Quartz Designer Clock,1-Sep-24,2,Shipped
+322,MUL,Men's Kurta - J. Cotton Kurta,10-Oct-24,2,Returned
+323,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,23-Jan-25,1,Returned
+324,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,27-Oct-24,2,Shipped
+325,MUL,Smartwatch - Xiaomi Mi Band 7,18-Mar-24,1,Shipped
+326,ISB,Men's Sneakers - Servis Cheetah Shoes,27-Sep-24,2,Shipped
+327,LHE,Men's Sneakers - Servis Cheetah Shoes,22-Nov-24,1,Returned
+328,KHI,Non-Stick Cookware Set - Prestige 5-Piece,3-Nov-24,1,Returned
+329,KHI,Women's Handbag - Stylo Leather Bag,31-Dec-24,1,Returned
+330,LHE,Wireless Earbuds - Audionic AirBuds 2,1-Sep-24,1,Returned
+331,LHE,Wireless Earbuds - Audionic AirBuds 2,8-Oct-24,1,Shipped
+332,LHE,Wireless Earbuds - Audionic AirBuds 2,26-Jun-24,2,Returned
+333,LHE,Men's Kurta - J. Cotton Kurta,12-Nov-24,1,Shipped
+334,ISB,Non-Stick Cookware Set - Prestige 5-Piece,1-May-24,1,Returned
+335,LHE,Wireless Earbuds - Audionic AirBuds 2,17-May-24,1,Returned
+336,MUL,Men's Kurta - J. Cotton Kurta,30-May-24,2,Returned
+337,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,3-Sep-24,3,Returned
+338,ISB,Women's Handbag - Stylo Leather Bag,31-Aug-24,2,Shipped
+339,MUL,Wireless Earbuds - Audionic AirBuds 2,9-Sep-24,3,Returned
+340,ISB,Wall Clock - Quartz Designer Clock,22-Jun-24,1,Shipped
+341,LHE,Electric Kettle - Dawlance 1.7L Kettle,30-Jul-24,2,Returned
+342,ISB,Wireless Earbuds - Audionic AirBuds 2,8-Aug-24,3,Shipped
+343,MUL,Power Bank - Romoss 20000mAh,1-Dec-24,2,Returned
+344,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,19-Jan-24,3,Shipped
+345,KHI,Wireless Earbuds - Audionic AirBuds 2,9-Apr-24,1,Returned
+346,MUL,Men's Kurta - J. Cotton Kurta,10-Nov-24,1,Shipped
+347,KHI,Smartwatch - Xiaomi Mi Band 7,9-Sep-24,1,Shipped
+348,ISB,Smartwatch - Xiaomi Mi Band 7,6-Feb-24,1,Returned
+349,ISB,Wireless Earbuds - Audionic AirBuds 2,29-Nov-24,2,Shipped
+350,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,31-Jan-24,2,Shipped
+351,KHI,Men's Kurta - J. Cotton Kurta,3-Mar-24,3,Shipped
+352,MUL,Electric Kettle - Dawlance 1.7L Kettle,17-Jul-24,1,Shipped
+353,KHI,Non-Stick Cookware Set - Prestige 5-Piece,6-Aug-24,1,Shipped
+354,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,14-Jan-25,2,Returned
+355,MUL,Gaming Mouse - Redragon M711 Cobra,15-Sep-24,1,Shipped
+356,KHI,Gaming Mouse - Redragon M711 Cobra,20-Jan-24,1,Shipped
+357,LHE,Wireless Earbuds - Audionic AirBuds 2,19-Mar-24,3,Shipped
+358,LHE,Power Bank - Romoss 20000mAh,19-Jan-25,3,Returned
+359,KHI,Wall Clock - Quartz Designer Clock,4-May-24,1,Returned
+360,LHE,Wireless Earbuds - Audionic AirBuds 2,4-Dec-24,1,Shipped
+361,KHI,Men's Sneakers - Servis Cheetah Shoes,15-Jan-24,3,Shipped
+362,LHE,Wireless Earbuds - Audionic AirBuds 2,1-Jan-24,2,Returned
+363,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,20-Feb-24,1,Returned
+364,LHE,Wireless Earbuds - Audionic AirBuds 2,5-Nov-24,1,Shipped
+365,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,3-Jun-24,2,Returned
+366,MUL,Non-Stick Cookware Set - Prestige 5-Piece,2-Aug-24,1,Shipped
+367,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,28-Apr-24,2,Returned
+368,ISB,Non-Stick Cookware Set - Prestige 5-Piece,27-Jul-24,3,Shipped
+369,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,24-Jan-24,2,Shipped
+370,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,10-Mar-24,3,Shipped
+371,MUL,Non-Stick Cookware Set - Prestige 5-Piece,3-Nov-24,1,Returned
+372,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,24-Apr-24,2,Shipped
+373,ISB,Men's Kurta - J. Cotton Kurta,23-Sep-24,1,Shipped
+374,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,25-Apr-24,1,Returned
+375,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,19-Aug-24,3,Shipped
+376,KHI,Men's Kurta - J. Cotton Kurta,27-Jul-24,2,Returned
+377,KHI,Men's Kurta - J. Cotton Kurta,14-Jul-24,3,Returned
+378,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,5-Mar-24,1,Shipped
+379,KHI,Gaming Mouse - Redragon M711 Cobra,14-Jan-24,3,Returned
+380,KHI,Women's Lawn Suit - Khaadi 3-Piece Lawn,21-Jul-24,3,Returned
+381,KHI,Wall Clock - Quartz Designer Clock,5-Sep-24,1,Returned
+382,LHE,Power Bank - Romoss 20000mAh,4-May-24,2,Shipped
+383,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,27-Dec-24,1,Shipped
+384,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,2-Nov-24,2,Shipped
+385,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,14-Sep-24,1,Returned
+386,ISB,Gaming Mouse - Redragon M711 Cobra,25-Jan-24,3,Shipped
+387,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,17-Nov-24,3,Shipped
+388,MUL,Smartwatch - Xiaomi Mi Band 7,1-Feb-24,3,Returned
+389,KHI,Wireless Earbuds - Audionic AirBuds 2,18-Mar-24,2,Shipped
+390,KHI,Non-Stick Cookware Set - Prestige 5-Piece,24-May-24,1,Shipped
+391,MUL,Wireless Earbuds - Audionic AirBuds 2,2-Nov-24,1,Shipped
+392,KHI,Gaming Mouse - Redragon M711 Cobra,10-Jan-24,2,Shipped
+393,MUL,Power Bank - Romoss 20000mAh,24-Feb-24,2,Shipped
+394,MUL,Non-Stick Cookware Set - Prestige 5-Piece,10-May-24,2,Returned
+395,ISB,Men's Kurta - J. Cotton Kurta,31-Jan-25,1,Shipped
+396,ISB,Smartwatch - Xiaomi Mi Band 7,8-Nov-24,2,Returned
+397,MUL,Men's Kurta - J. Cotton Kurta,24-Sep-24,3,Returned
+398,KHI,Wireless Earbuds - Audionic AirBuds 2,9-Aug-24,2,Shipped
+399,KHI,Wireless Earbuds - Audionic AirBuds 2,10-Aug-24,1,Shipped
+400,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,15-Jun-24,1,Shipped
+401,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,31-Mar-24,2,Returned
+402,KHI,Men's Sneakers - Servis Cheetah Shoes,25-May-24,3,Returned
+403,LHE,Women's Handbag - Stylo Leather Bag,16-Sep-24,2,Shipped
+404,LHE,Smartwatch - Xiaomi Mi Band 7,1-May-24,1,Shipped
+405,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,13-Sep-24,3,Shipped
+406,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,23-Nov-24,3,Shipped
+407,LHE,Rice Cooker - Westpoint 1.8L Rice Cooker,23-Aug-24,2,Shipped
+408,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,15-Jul-24,2,Shipped
+409,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,15-Jan-24,2,Shipped
+410,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,15-Apr-24,1,Returned
+411,ISB,Smartwatch - Xiaomi Mi Band 7,22-Jul-24,2,Returned
+412,MUL,Men's Sneakers - Servis Cheetah Shoes,21-Jan-24,2,Returned
+413,LHE,Rice Cooker - Westpoint 1.8L Rice Cooker,16-Jan-24,3,Shipped
+414,ISB,Gaming Mouse - Redragon M711 Cobra,30-Mar-24,2,Shipped
+415,KHI,Power Bank - Romoss 20000mAh,17-Jul-24,3,Shipped
+416,ISB,Women's Handbag - Stylo Leather Bag,7-Aug-24,3,Shipped
+417,MUL,Men's Kurta - J. Cotton Kurta,6-Feb-24,3,Shipped
+418,KHI,Wireless Earbuds - Audionic AirBuds 2,2-Jul-24,1,Returned
+419,MUL,Rice Cooker - Westpoint 1.8L Rice Cooker,5-Jun-24,3,Shipped
+420,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,13-Jan-25,3,Returned
+421,MUL,Non-Stick Cookware Set - Prestige 5-Piece,18-Dec-24,1,Returned
+422,MUL,Electric Kettle - Dawlance 1.7L Kettle,11-Apr-24,3,Returned
+423,LHE,Men's Kurta - J. Cotton Kurta,30-Jan-24,3,Returned
+424,MUL,Wireless Earbuds - Audionic AirBuds 2,24-Jul-24,3,Shipped
+425,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,29-Sep-24,1,Shipped
+426,LHE,Women's Handbag - Stylo Leather Bag,14-Sep-24,3,Returned
+427,MUL,Women's Handbag - Stylo Leather Bag,17-Mar-24,3,Returned
+428,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,23-Dec-24,3,Shipped
+429,ISB,Men's Sneakers - Servis Cheetah Shoes,9-Aug-24,2,Returned
+430,MUL,Rice Cooker - Westpoint 1.8L Rice Cooker,14-Dec-24,1,Shipped
+431,ISB,Wall Clock - Quartz Designer Clock,20-Apr-24,1,Shipped
+432,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,23-Oct-24,2,Returned
+433,MUL,Electric Kettle - Dawlance 1.7L Kettle,26-Apr-24,3,Returned
+434,ISB,Gaming Mouse - Redragon M711 Cobra,22-Jun-24,2,Shipped
+435,KHI,Men's Kurta - J. Cotton Kurta,18-Feb-24,3,Shipped
+436,ISB,Wireless Earbuds - Audionic AirBuds 2,30-Jun-24,3,Returned
+437,LHE,Non-Stick Cookware Set - Prestige 5-Piece,21-Sep-24,1,Returned
+438,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,5-Jan-25,3,Returned
+439,LHE,Smartwatch - Xiaomi Mi Band 7,6-Jan-24,1,Shipped
+440,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,24-Sep-24,2,Returned
+441,KHI,Women's Lawn Suit - Khaadi 3-Piece Lawn,8-Jun-24,2,Returned
+442,MUL,Gaming Mouse - Redragon M711 Cobra,18-Dec-24,2,Returned
+443,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,12-Oct-24,1,Shipped
+444,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,15-Apr-24,2,Returned
+445,KHI,Electric Kettle - Dawlance 1.7L Kettle,4-Jan-25,2,Returned
+446,ISB,Women's Handbag - Stylo Leather Bag,6-Jan-25,1,Returned
+447,ISB,Power Bank - Romoss 20000mAh,17-May-24,2,Shipped
+448,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,27-Feb-24,3,Returned
+449,KHI,Wireless Earbuds - Audionic AirBuds 2,4-Feb-24,2,Shipped
+450,KHI,Women's Handbag - Stylo Leather Bag,24-Feb-24,3,Shipped
+451,KHI,Gaming Mouse - Redragon M711 Cobra,10-Jan-24,1,Returned
+452,MUL,Men's Sneakers - Servis Cheetah Shoes,21-Jul-24,2,Shipped
+453,MUL,Men's Kurta - J. Cotton Kurta,17-Oct-24,1,Returned
+454,MUL,Smartwatch - Xiaomi Mi Band 7,29-Apr-24,2,Shipped
+455,ISB,Men's Sneakers - Servis Cheetah Shoes,9-Oct-24,3,Shipped
+456,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,24-Aug-24,1,Returned
+457,KHI,Women's Handbag - Stylo Leather Bag,2-Jul-24,3,Returned
+458,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,11-Jun-24,3,Returned
+459,MUL,Non-Stick Cookware Set - Prestige 5-Piece,5-Apr-24,1,Returned
+460,MUL,Non-Stick Cookware Set - Prestige 5-Piece,22-Apr-24,2,Shipped
+461,MUL,Women's Handbag - Stylo Leather Bag,16-Nov-24,3,Returned
+462,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,18-Sep-24,2,Shipped
+463,KHI,Electric Kettle - Dawlance 1.7L Kettle,11-Jun-24,1,Returned
+464,MUL,Wireless Earbuds - Audionic AirBuds 2,30-Oct-24,1,Shipped
+465,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,26-Sep-24,2,Returned
+466,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,9-Apr-24,1,Shipped
+467,ISB,Smartwatch - Xiaomi Mi Band 7,8-May-24,2,Shipped
+468,MUL,Electric Kettle - Dawlance 1.7L Kettle,18-May-24,3,Shipped
+469,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,19-Nov-24,2,Returned
+470,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,21-Jun-24,3,Returned
+471,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,19-Feb-24,2,Shipped
+472,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,4-May-24,2,Returned
+473,MUL,Smartwatch - Xiaomi Mi Band 7,5-Feb-24,2,Shipped
+474,KHI,Women's Handbag - Stylo Leather Bag,6-Jun-24,1,Shipped
+475,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,13-Jul-24,3,Shipped
+476,MUL,Electric Kettle - Dawlance 1.7L Kettle,13-Aug-24,2,Returned
+477,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,22-Sep-24,3,Shipped
+478,ISB,Wall Clock - Quartz Designer Clock,16-Dec-24,1,Shipped
+479,ISB,Power Bank - Romoss 20000mAh,22-Feb-24,2,Shipped
+480,ISB,Smartwatch - Xiaomi Mi Band 7,16-Aug-24,3,Shipped
+481,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,5-Jan-24,2,Returned
+482,ISB,Electric Kettle - Dawlance 1.7L Kettle,27-Apr-24,3,Shipped
+483,MUL,Men's Kurta - J. Cotton Kurta,3-Jan-24,1,Shipped
+484,MUL,Wireless Earbuds - Audionic AirBuds 2,4-Aug-24,1,Shipped
+485,LHE,Gaming Mouse - Redragon M711 Cobra,9-Mar-24,1,Shipped
+486,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,20-Jun-24,1,Shipped
+487,KHI,Non-Stick Cookware Set - Prestige 5-Piece,25-Feb-24,2,Shipped
+488,ISB,Gaming Mouse - Redragon M711 Cobra,28-Nov-24,1,Returned
+489,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,18-Jun-24,1,Returned
+490,KHI,Power Bank - Romoss 20000mAh,5-Oct-24,3,Returned
+491,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,12-Dec-24,1,Returned
+492,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,28-Mar-24,3,Returned
+493,ISB,Gaming Mouse - Redragon M711 Cobra,25-Jan-24,2,Returned
+494,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,2-Nov-24,3,Returned
+495,ISB,Women's Handbag - Stylo Leather Bag,16-May-24,3,Shipped
+496,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,9-Nov-24,3,Returned
+497,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,11-Aug-24,2,Returned
+498,LHE,Non-Stick Cookware Set - Prestige 5-Piece,2-Jan-25,2,Returned
+499,KHI,Power Bank - Romoss 20000mAh,20-Nov-24,3,Shipped
+500,MUL,Power Bank - Romoss 20000mAh,28-Jul-24,1,Shipped
+501,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,19-Feb-24,1,Returned
+502,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,10-Mar-24,2,Shipped
+503,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,14-Jan-25,1,Returned
+504,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,14-Dec-24,3,Returned
+505,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,20-Feb-24,1,Returned
+506,ISB,Smartwatch - Xiaomi Mi Band 7,29-Jan-24,3,Returned
+507,ISB,Smartwatch - Xiaomi Mi Band 7,31-Jan-25,1,Returned
+508,MUL,Gaming Mouse - Redragon M711 Cobra,4-Aug-24,2,Shipped
+509,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,2-Jan-24,3,Returned
+510,ISB,Electric Kettle - Dawlance 1.7L Kettle,16-Jan-24,3,Returned
+511,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,4-Jan-25,1,Shipped
+512,LHE,Power Bank - Romoss 20000mAh,16-May-24,2,Returned
+513,MUL,Electric Kettle - Dawlance 1.7L Kettle,31-May-24,3,Shipped
+514,MUL,Wireless Earbuds - Audionic AirBuds 2,23-Jan-24,2,Shipped
+515,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,13-Jul-24,1,Shipped
+516,LHE,Power Bank - Romoss 20000mAh,20-Oct-24,2,Returned
+517,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,3-Apr-24,3,Returned
+518,LHE,Wireless Earbuds - Audionic AirBuds 2,29-Nov-24,2,Returned
+519,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,23-Jan-25,2,Shipped
+520,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,2-Oct-24,1,Shipped
+521,LHE,Wireless Earbuds - Audionic AirBuds 2,24-Feb-24,2,Returned
+522,ISB,Wireless Earbuds - Audionic AirBuds 2,23-Jan-25,3,Returned
+523,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,22-Oct-24,3,Shipped
+524,KHI,Smartwatch - Xiaomi Mi Band 7,23-Jan-25,1,Returned
+525,ISB,Electric Kettle - Dawlance 1.7L Kettle,2-Jan-24,2,Shipped
+526,KHI,Non-Stick Cookware Set - Prestige 5-Piece,13-Jun-24,1,Returned
+527,LHE,Electric Kettle - Dawlance 1.7L Kettle,31-May-24,3,Returned
+528,ISB,Power Bank - Romoss 20000mAh,27-Jun-24,3,Returned
+529,MUL,Women's Handbag - Stylo Leather Bag,28-Oct-24,1,Returned
+530,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,13-Mar-24,1,Shipped
+531,ISB,Women's Handbag - Stylo Leather Bag,2-Dec-24,3,Shipped
+532,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,1-Aug-24,1,Returned
+533,ISB,Wall Clock - Quartz Designer Clock,10-Feb-24,2,Returned
+534,LHE,Smartwatch - Xiaomi Mi Band 7,8-Dec-24,2,Returned
+535,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,18-Feb-24,2,Shipped
+536,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,9-Mar-24,2,Returned
+537,LHE,Women's Handbag - Stylo Leather Bag,6-Sep-24,2,Returned
+538,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,20-Dec-24,1,Returned
+539,ISB,Men's Kurta - J. Cotton Kurta,22-Apr-24,3,Returned
+540,LHE,Men's Sneakers - Servis Cheetah Shoes,20-Aug-24,1,Shipped
+541,ISB,Gaming Mouse - Redragon M711 Cobra,9-Oct-24,3,Returned
+542,MUL,Wall Clock - Quartz Designer Clock,29-Dec-24,2,Returned
+543,ISB,Men's Sneakers - Servis Cheetah Shoes,22-Aug-24,2,Returned
+544,ISB,Non-Stick Cookware Set - Prestige 5-Piece,9-Jan-24,1,Returned
+545,ISB,Men's Sneakers - Servis Cheetah Shoes,9-Nov-24,2,Returned
+546,LHE,Electric Kettle - Dawlance 1.7L Kettle,8-Jul-24,3,Shipped
+547,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,16-Jan-25,1,Returned
+548,ISB,Electric Kettle - Dawlance 1.7L Kettle,2-Jan-24,2,Shipped
+549,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,18-Nov-24,2,Returned
+550,LHE,Wireless Earbuds - Audionic AirBuds 2,26-Feb-24,1,Shipped
+551,LHE,Men's Sneakers - Servis Cheetah Shoes,27-Jan-24,3,Shipped
+552,LHE,Power Bank - Romoss 20000mAh,14-Jun-24,1,Returned
+553,LHE,Non-Stick Cookware Set - Prestige 5-Piece,18-Jan-25,3,Returned
+554,KHI,Men's Sneakers - Servis Cheetah Shoes,8-Jan-25,2,Returned
+555,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,25-May-24,3,Returned
+556,ISB,Gaming Mouse - Redragon M711 Cobra,5-Mar-24,3,Returned
+557,LHE,Rice Cooker - Westpoint 1.8L Rice Cooker,10-Aug-24,2,Returned
+558,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,22-Apr-24,3,Returned
+559,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,8-Jul-24,1,Returned
+560,LHE,Men's Sneakers - Servis Cheetah Shoes,22-Mar-24,1,Returned
+561,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,24-Feb-24,3,Shipped
+562,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,1-Dec-24,3,Returned
+563,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,2-Jan-24,1,Shipped
+564,LHE,Wireless Earbuds - Audionic AirBuds 2,8-Jan-24,2,Returned
+565,KHI,Women's Lawn Suit - Khaadi 3-Piece Lawn,18-Jan-25,1,Shipped
+566,MUL,Women's Handbag - Stylo Leather Bag,3-Jan-25,2,Returned
+567,ISB,Non-Stick Cookware Set - Prestige 5-Piece,5-Feb-24,2,Returned
+568,KHI,Wireless Earbuds - Audionic AirBuds 2,29-Sep-24,3,Shipped
+569,LHE,Women's Handbag - Stylo Leather Bag,30-May-24,1,Shipped
+570,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,19-Apr-24,1,Shipped
+571,LHE,Wall Clock - Quartz Designer Clock,5-Jan-24,2,Returned
+572,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,23-Apr-24,3,Returned
+573,MUL,Wireless Earbuds - Audionic AirBuds 2,11-Jul-24,3,Shipped
+574,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,24-Apr-24,1,Shipped
+575,MUL,Rice Cooker - Westpoint 1.8L Rice Cooker,2-Aug-24,2,Shipped
+576,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,25-Nov-24,1,Shipped
+577,MUL,Men's Sneakers - Servis Cheetah Shoes,24-Feb-24,3,Returned
+578,ISB,Men's Sneakers - Servis Cheetah Shoes,2-Jul-24,1,Returned
+579,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,2-Jan-25,3,Shipped
+580,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,15-Dec-24,3,Returned
+581,LHE,Wireless Earbuds - Audionic AirBuds 2,11-Apr-24,1,Shipped
+582,MUL,Men's Kurta - J. Cotton Kurta,10-Jun-24,3,Returned
+583,ISB,Wireless Earbuds - Audionic AirBuds 2,21-Aug-24,1,Shipped
+584,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,8-Nov-24,1,Returned
+585,LHE,Women's Handbag - Stylo Leather Bag,11-Oct-24,1,Shipped
+586,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,21-May-24,2,Returned
+587,MUL,Men's Sneakers - Servis Cheetah Shoes,13-Feb-24,2,Shipped
+588,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,18-May-24,3,Returned
+589,LHE,Wireless Earbuds - Audionic AirBuds 2,11-Dec-24,2,Shipped
+590,MUL,Electric Kettle - Dawlance 1.7L Kettle,17-Aug-24,3,Shipped
+591,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,12-Mar-24,1,Returned
+592,MUL,Women's Handbag - Stylo Leather Bag,26-Jan-25,3,Shipped
+593,ISB,Men's Sneakers - Servis Cheetah Shoes,29-May-24,1,Shipped
+594,KHI,Gaming Mouse - Redragon M711 Cobra,21-Nov-24,3,Returned
+595,ISB,Gaming Mouse - Redragon M711 Cobra,2-Jan-25,1,Shipped
+596,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,1-Oct-24,1,Shipped
+597,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,30-Jan-24,3,Returned
+598,KHI,Wireless Earbuds - Audionic AirBuds 2,10-Jul-24,1,Returned
+599,LHE,Women's Handbag - Stylo Leather Bag,9-Oct-24,3,Shipped
+600,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,6-Sep-24,3,Shipped
+601,LHE,Rice Cooker - Westpoint 1.8L Rice Cooker,5-Jun-24,1,Shipped
+602,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,13-May-24,3,Shipped
+603,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,13-Jul-24,3,Returned
+604,LHE,Gaming Mouse - Redragon M711 Cobra,24-Apr-24,2,Returned
+605,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,7-Mar-24,3,Returned
+606,ISB,Smartwatch - Xiaomi Mi Band 7,26-Jul-24,3,Returned
+607,KHI,Men's Sneakers - Servis Cheetah Shoes,23-Jan-25,3,Shipped
+608,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,18-Jan-25,1,Shipped
+609,MUL,Power Bank - Romoss 20000mAh,23-Oct-24,2,Shipped
+610,MUL,Non-Stick Cookware Set - Prestige 5-Piece,22-Nov-24,2,Shipped
+611,MUL,Men's Kurta - J. Cotton Kurta,11-Dec-24,2,Shipped
+612,ISB,Gaming Mouse - Redragon M711 Cobra,25-Dec-24,1,Shipped
+613,KHI,Gaming Mouse - Redragon M711 Cobra,27-Jul-24,1,Returned
+614,ISB,Women's Handbag - Stylo Leather Bag,8-Oct-24,2,Returned
+615,MUL,Wall Clock - Quartz Designer Clock,15-Feb-24,1,Returned
+616,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,3-Jul-24,1,Returned
+617,ISB,Wall Clock - Quartz Designer Clock,7-Mar-24,1,Returned
+618,ISB,Wireless Earbuds - Audionic AirBuds 2,2-Sep-24,1,Returned
+619,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,7-Jan-24,2,Shipped
+620,ISB,Men's Sneakers - Servis Cheetah Shoes,25-Jan-25,1,Shipped
+621,MUL,Men's Sneakers - Servis Cheetah Shoes,13-Dec-24,3,Shipped
+622,ISB,Men's Sneakers - Servis Cheetah Shoes,8-Nov-24,1,Shipped
+623,LHE,Gaming Mouse - Redragon M711 Cobra,10-May-24,3,Returned
+624,ISB,Electric Kettle - Dawlance 1.7L Kettle,9-Jan-24,1,Shipped
+625,KHI,Gaming Mouse - Redragon M711 Cobra,17-Aug-24,2,Shipped
+626,ISB,Men's Sneakers - Servis Cheetah Shoes,2-Oct-24,1,Returned
+627,KHI,Gaming Mouse - Redragon M711 Cobra,14-Apr-24,1,Shipped
+628,KHI,Women's Handbag - Stylo Leather Bag,1-Jan-25,1,Shipped
+629,KHI,Wireless Earbuds - Audionic AirBuds 2,21-Feb-24,3,Shipped
+630,LHE,Wall Clock - Quartz Designer Clock,11-Dec-24,1,Returned
+631,MUL,Gaming Mouse - Redragon M711 Cobra,23-Mar-24,1,Shipped
+632,ISB,Wall Clock - Quartz Designer Clock,28-Aug-24,3,Shipped
+633,KHI,Men's Sneakers - Servis Cheetah Shoes,20-Jun-24,1,Returned
+634,KHI,Wireless Earbuds - Audionic AirBuds 2,28-Dec-24,3,Returned
+635,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,9-Nov-24,2,Returned
+636,LHE,Rice Cooker - Westpoint 1.8L Rice Cooker,23-Feb-24,1,Shipped
+637,ISB,Non-Stick Cookware Set - Prestige 5-Piece,22-Jul-24,3,Shipped
+638,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,18-May-24,3,Returned
+639,LHE,Electric Kettle - Dawlance 1.7L Kettle,14-Nov-24,2,Returned
+640,MUL,Power Bank - Romoss 20000mAh,24-Oct-24,2,Returned
+641,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,21-Apr-24,2,Returned
+642,MUL,Non-Stick Cookware Set - Prestige 5-Piece,9-Dec-24,3,Shipped
+643,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,18-Oct-24,3,Shipped
+644,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,10-Feb-24,3,Shipped
+645,ISB,Smartwatch - Xiaomi Mi Band 7,25-Feb-24,1,Returned
+646,MUL,Smartwatch - Xiaomi Mi Band 7,1-Jan-25,2,Shipped
+647,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,21-Mar-24,3,Shipped
+648,KHI,Non-Stick Cookware Set - Prestige 5-Piece,17-Mar-24,1,Shipped
+649,LHE,Electric Kettle - Dawlance 1.7L Kettle,6-Jan-25,2,Returned
+650,LHE,Rice Cooker - Westpoint 1.8L Rice Cooker,29-Nov-24,2,Shipped
+651,MUL,Men's Kurta - J. Cotton Kurta,9-Feb-24,2,Returned
+652,MUL,Non-Stick Cookware Set - Prestige 5-Piece,5-Dec-24,2,Returned
+653,KHI,Smartwatch - Xiaomi Mi Band 7,10-Oct-24,3,Shipped
+654,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,7-Jan-24,1,Shipped
+655,KHI,Gaming Mouse - Redragon M711 Cobra,19-Nov-24,2,Shipped
+656,LHE,Non-Stick Cookware Set - Prestige 5-Piece,3-Aug-24,2,Shipped
+657,MUL,Power Bank - Romoss 20000mAh,25-Sep-24,1,Returned
+658,LHE,Non-Stick Cookware Set - Prestige 5-Piece,24-Dec-24,3,Shipped
+659,KHI,Smartwatch - Xiaomi Mi Band 7,10-Feb-24,2,Shipped
+660,ISB,Wall Clock - Quartz Designer Clock,11-Jun-24,2,Returned
+661,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,30-Dec-24,3,Shipped
+662,LHE,Wall Clock - Quartz Designer Clock,17-Jul-24,1,Returned
+663,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,21-Mar-24,3,Shipped
+664,MUL,Non-Stick Cookware Set - Prestige 5-Piece,16-Jan-25,2,Returned
+665,MUL,Rice Cooker - Westpoint 1.8L Rice Cooker,20-Jul-24,3,Returned
+666,MUL,Electric Kettle - Dawlance 1.7L Kettle,1-Feb-24,3,Returned
+667,KHI,Smartwatch - Xiaomi Mi Band 7,12-Nov-24,1,Shipped
+668,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,4-Aug-24,3,Returned
+669,MUL,Rice Cooker - Westpoint 1.8L Rice Cooker,30-Sep-24,2,Shipped
+670,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,28-Aug-24,1,Shipped
+671,KHI,Non-Stick Cookware Set - Prestige 5-Piece,1-Jun-24,1,Shipped
+672,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,24-Jan-25,1,Shipped
+673,MUL,Women's Handbag - Stylo Leather Bag,24-Aug-24,1,Returned
+674,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,8-May-24,1,Shipped
+675,LHE,Smartwatch - Xiaomi Mi Band 7,8-Aug-24,2,Returned
+676,KHI,Smartwatch - Xiaomi Mi Band 7,29-Nov-24,1,Shipped
+677,ISB,Men's Sneakers - Servis Cheetah Shoes,27-Dec-24,2,Returned
+678,KHI,Men's Kurta - J. Cotton Kurta,2-Jan-24,3,Returned
+679,ISB,Men's Kurta - J. Cotton Kurta,15-Feb-24,2,Shipped
+680,KHI,Non-Stick Cookware Set - Prestige 5-Piece,17-Oct-24,1,Shipped
+681,MUL,Non-Stick Cookware Set - Prestige 5-Piece,9-Jun-24,1,Returned
+682,ISB,Gaming Mouse - Redragon M711 Cobra,28-Oct-24,1,Returned
+683,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,4-Feb-24,2,Shipped
+684,KHI,Women's Handbag - Stylo Leather Bag,24-Sep-24,3,Shipped
+685,ISB,Non-Stick Cookware Set - Prestige 5-Piece,27-Jun-24,1,Shipped
+686,LHE,Power Bank - Romoss 20000mAh,20-Nov-24,3,Shipped
+687,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,9-Jun-24,3,Returned
+688,KHI,Electric Kettle - Dawlance 1.7L Kettle,14-Jan-24,2,Shipped
+689,ISB,Men's Sneakers - Servis Cheetah Shoes,1-Dec-24,2,Returned
+690,LHE,Wall Clock - Quartz Designer Clock,9-Oct-24,1,Shipped
+691,ISB,Men's Kurta - J. Cotton Kurta,11-Nov-24,3,Shipped
+692,LHE,Men's Sneakers - Servis Cheetah Shoes,26-Nov-24,2,Shipped
+693,MUL,Electric Kettle - Dawlance 1.7L Kettle,26-Jul-24,2,Returned
+694,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,21-Nov-24,1,Shipped
+695,LHE,Electric Kettle - Dawlance 1.7L Kettle,28-May-24,3,Returned
+696,KHI,Men's Sneakers - Servis Cheetah Shoes,1-Apr-24,1,Returned
+697,MUL,Men's Kurta - J. Cotton Kurta,23-Nov-24,1,Returned
+698,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,24-Oct-24,2,Shipped
+699,KHI,Non-Stick Cookware Set - Prestige 5-Piece,31-Jan-24,1,Returned
+700,LHE,Gaming Mouse - Redragon M711 Cobra,9-Sep-24,3,Returned
+701,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,14-Jan-25,1,Returned
+702,ISB,Wireless Earbuds - Audionic AirBuds 2,25-Jun-24,1,Shipped
+703,ISB,Non-Stick Cookware Set - Prestige 5-Piece,17-Jun-24,1,Returned
+704,LHE,Women's Handbag - Stylo Leather Bag,22-Sep-24,1,Returned
+705,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,17-May-24,1,Shipped
+706,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,11-May-24,3,Returned
+707,KHI,Wall Clock - Quartz Designer Clock,26-Oct-24,2,Returned
+708,ISB,Non-Stick Cookware Set - Prestige 5-Piece,14-Dec-24,2,Shipped
+709,KHI,Wireless Earbuds - Audionic AirBuds 2,16-Nov-24,1,Shipped
+710,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,29-Feb-24,2,Returned
+711,ISB,Wall Clock - Quartz Designer Clock,21-Sep-24,1,Returned
+712,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,20-Feb-24,3,Returned
+713,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,6-Mar-24,2,Shipped
+714,MUL,Rice Cooker - Westpoint 1.8L Rice Cooker,20-Feb-24,2,Shipped
+715,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,29-Jan-24,2,Shipped
+716,MUL,Non-Stick Cookware Set - Prestige 5-Piece,23-Apr-24,1,Shipped
+717,MUL,Men's Kurta - J. Cotton Kurta,26-Apr-24,3,Returned
+718,KHI,Men's Kurta - J. Cotton Kurta,30-Oct-24,2,Shipped
+719,ISB,Men's Kurta - J. Cotton Kurta,1-Apr-24,2,Returned
+720,ISB,Smartwatch - Xiaomi Mi Band 7,9-Aug-24,3,Returned
+721,MUL,Women's Handbag - Stylo Leather Bag,2-Jul-24,2,Returned
+722,LHE,Men's Sneakers - Servis Cheetah Shoes,27-Nov-24,3,Returned
+723,MUL,Men's Kurta - J. Cotton Kurta,31-Jan-24,3,Shipped
+724,MUL,Power Bank - Romoss 20000mAh,27-Apr-24,1,Returned
+725,KHI,Non-Stick Cookware Set - Prestige 5-Piece,12-May-24,3,Returned
+726,KHI,Men's Kurta - J. Cotton Kurta,9-Feb-24,1,Shipped
+727,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,3-Sep-24,3,Returned
+728,ISB,Men's Sneakers - Servis Cheetah Shoes,25-Sep-24,3,Shipped
+729,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,20-Dec-24,2,Returned
+730,LHE,Wall Clock - Quartz Designer Clock,18-Dec-24,2,Returned
+731,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,16-Sep-24,2,Shipped
+732,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,1-Jun-24,2,Returned
+733,ISB,Women's Handbag - Stylo Leather Bag,16-Nov-24,1,Returned
+734,LHE,Women's Handbag - Stylo Leather Bag,17-Jan-25,1,Shipped
+735,LHE,Wall Clock - Quartz Designer Clock,20-Oct-24,2,Returned
+736,LHE,Gaming Mouse - Redragon M711 Cobra,24-Jul-24,3,Returned
+737,KHI,Electric Kettle - Dawlance 1.7L Kettle,17-Jan-24,3,Shipped
+738,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,18-Feb-24,2,Returned
+739,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,16-Jan-24,3,Shipped
+740,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,26-Jan-25,1,Returned
+741,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,4-Aug-24,3,Shipped
+742,KHI,Non-Stick Cookware Set - Prestige 5-Piece,3-May-24,2,Returned
+743,LHE,Men's Kurta - J. Cotton Kurta,9-Apr-24,3,Shipped
+744,LHE,Gaming Mouse - Redragon M711 Cobra,16-Nov-24,1,Shipped
+745,KHI,Electric Kettle - Dawlance 1.7L Kettle,4-Dec-24,1,Shipped
+746,LHE,Wall Clock - Quartz Designer Clock,2-Aug-24,1,Shipped
+747,KHI,Non-Stick Cookware Set - Prestige 5-Piece,1-May-24,3,Shipped
+748,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,4-Jan-25,2,Shipped
+749,MUL,Rice Cooker - Westpoint 1.8L Rice Cooker,29-Mar-24,3,Returned
+750,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,1-Apr-24,3,Shipped
+751,KHI,Smartwatch - Xiaomi Mi Band 7,7-Jun-24,1,Shipped
+752,ISB,Gaming Mouse - Redragon M711 Cobra,9-Aug-24,2,Shipped
+753,KHI,Wall Clock - Quartz Designer Clock,26-May-24,1,Shipped
+754,LHE,Electric Kettle - Dawlance 1.7L Kettle,27-Jan-25,2,Returned
+755,ISB,Power Bank - Romoss 20000mAh,12-Jul-24,1,Returned
+756,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,27-Jun-24,2,Shipped
+757,LHE,Gaming Mouse - Redragon M711 Cobra,24-Jun-24,2,Shipped
+758,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,24-May-24,1,Shipped
+759,ISB,Men's Kurta - J. Cotton Kurta,22-Sep-24,1,Shipped
+760,ISB,Wall Clock - Quartz Designer Clock,15-Dec-24,3,Returned
+761,MUL,Women's Handbag - Stylo Leather Bag,7-Jul-24,2,Shipped
+762,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,7-Feb-24,1,Returned
+763,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,6-Feb-24,3,Returned
+764,MUL,Wall Clock - Quartz Designer Clock,21-May-24,2,Returned
+765,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,28-Nov-24,1,Shipped
+766,KHI,Wall Clock - Quartz Designer Clock,3-Feb-24,2,Returned
+767,LHE,Wall Clock - Quartz Designer Clock,21-Jan-25,3,Returned
+768,KHI,Wireless Earbuds - Audionic AirBuds 2,4-Apr-24,1,Returned
+769,KHI,Gaming Mouse - Redragon M711 Cobra,28-Jan-24,2,Shipped
+770,ISB,Women's Handbag - Stylo Leather Bag,14-Feb-24,1,Returned
+771,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,17-Feb-24,1,Returned
+772,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,2-Nov-24,3,Shipped
+773,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,12-Jan-25,1,Shipped
+774,ISB,Wall Clock - Quartz Designer Clock,17-Jul-24,2,Returned
+775,KHI,Electric Kettle - Dawlance 1.7L Kettle,13-May-24,1,Shipped
+776,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,21-Aug-24,3,Returned
+777,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,5-Mar-24,3,Returned
+778,MUL,Women's Handbag - Stylo Leather Bag,19-Dec-24,1,Returned
+779,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,16-Aug-24,1,Returned
+780,LHE,Electric Kettle - Dawlance 1.7L Kettle,11-Aug-24,1,Returned
+781,ISB,Electric Kettle - Dawlance 1.7L Kettle,14-Sep-24,2,Returned
+782,LHE,Non-Stick Cookware Set - Prestige 5-Piece,9-Jun-24,3,Returned
+783,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,28-Apr-24,3,Returned
+784,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,15-Jul-24,2,Shipped
+785,ISB,Smartwatch - Xiaomi Mi Band 7,14-Jun-24,3,Shipped
+786,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,12-Aug-24,1,Shipped
+787,MUL,Gaming Mouse - Redragon M711 Cobra,23-Jun-24,1,Shipped
+788,LHE,Power Bank - Romoss 20000mAh,27-Mar-24,3,Shipped
+789,LHE,Gaming Mouse - Redragon M711 Cobra,15-Sep-24,3,Returned
+790,LHE,Women's Handbag - Stylo Leather Bag,26-Feb-24,3,Returned
+791,KHI,Wireless Earbuds - Audionic AirBuds 2,25-Nov-24,2,Shipped
+792,LHE,Electric Kettle - Dawlance 1.7L Kettle,4-Jul-24,2,Shipped
+793,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,6-Dec-24,1,Shipped
+794,ISB,Power Bank - Romoss 20000mAh,26-Nov-24,2,Returned
+795,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,11-Jan-24,3,Shipped
+796,ISB,Women's Handbag - Stylo Leather Bag,12-Dec-24,3,Returned
+797,KHI,Wireless Earbuds - Audionic AirBuds 2,25-Sep-24,3,Shipped
+798,LHE,Wall Clock - Quartz Designer Clock,28-Jun-24,3,Shipped
+799,KHI,Smartwatch - Xiaomi Mi Band 7,17-Mar-24,1,Shipped
+800,KHI,Women's Handbag - Stylo Leather Bag,13-Sep-24,1,Returned
+801,LHE,Wall Clock - Quartz Designer Clock,8-Feb-24,2,Returned
+802,MUL,Smartwatch - Xiaomi Mi Band 7,7-May-24,2,Returned
+803,MUL,Men's Kurta - J. Cotton Kurta,2-Aug-24,1,Shipped
+804,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,2-May-24,3,Shipped
+805,MUL,Wall Clock - Quartz Designer Clock,26-Jun-24,2,Shipped
+806,KHI,Wireless Earbuds - Audionic AirBuds 2,22-May-24,1,Shipped
+807,LHE,Power Bank - Romoss 20000mAh,5-Oct-24,3,Shipped
+808,MUL,Men's Sneakers - Servis Cheetah Shoes,9-Aug-24,3,Shipped
+809,KHI,Men's Sneakers - Servis Cheetah Shoes,26-Dec-24,2,Returned
+810,ISB,Non-Stick Cookware Set - Prestige 5-Piece,24-Sep-24,1,Returned
+811,KHI,Electric Kettle - Dawlance 1.7L Kettle,13-Apr-24,3,Returned
+812,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,2-May-24,1,Returned
+813,LHE,Wireless Earbuds - Audionic AirBuds 2,15-Jul-24,3,Returned
+814,LHE,Smartwatch - Xiaomi Mi Band 7,30-Mar-24,2,Returned
+815,MUL,Men's Sneakers - Servis Cheetah Shoes,28-Mar-24,1,Shipped
+816,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,21-Apr-24,2,Shipped
+817,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,17-Dec-24,3,Returned
+818,MUL,Wall Clock - Quartz Designer Clock,30-Jan-24,2,Returned
+819,MUL,Smartwatch - Xiaomi Mi Band 7,1-Mar-24,3,Returned
+820,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,21-Aug-24,1,Shipped
+821,LHE,Smartwatch - Xiaomi Mi Band 7,23-Feb-24,3,Returned
+822,MUL,Power Bank - Romoss 20000mAh,26-Jul-24,2,Shipped
+823,LHE,Men's Kurta - J. Cotton Kurta,6-Jun-24,2,Shipped
+824,MUL,Electric Kettle - Dawlance 1.7L Kettle,3-Nov-24,2,Shipped
+825,MUL,Men's Kurta - J. Cotton Kurta,7-Oct-24,1,Shipped
+826,KHI,Power Bank - Romoss 20000mAh,5-Apr-24,2,Shipped
+827,KHI,Men's Kurta - J. Cotton Kurta,14-Jan-24,1,Shipped
+828,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,23-Dec-24,2,Shipped
+829,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,8-Feb-24,3,Returned
+830,LHE,Rice Cooker - Westpoint 1.8L Rice Cooker,29-Feb-24,2,Returned
+831,KHI,Smartwatch - Xiaomi Mi Band 7,25-Apr-24,2,Returned
+832,KHI,Non-Stick Cookware Set - Prestige 5-Piece,2-Mar-24,2,Shipped
+833,KHI,Wall Clock - Quartz Designer Clock,26-Sep-24,3,Returned
+834,ISB,Power Bank - Romoss 20000mAh,22-Nov-24,3,Shipped
+835,ISB,Men's Formal Shirt - Bonanza Satrangi Shirt,17-Sep-24,1,Shipped
+836,ISB,Electric Kettle - Dawlance 1.7L Kettle,4-Jan-24,3,Shipped
+837,MUL,Gaming Mouse - Redragon M711 Cobra,15-Jan-24,2,Shipped
+838,LHE,Men's Kurta - J. Cotton Kurta,10-Jan-24,1,Shipped
+839,ISB,Gaming Mouse - Redragon M711 Cobra,31-Mar-24,1,Shipped
+840,MUL,Electric Kettle - Dawlance 1.7L Kettle,21-Jan-24,3,Returned
+841,LHE,Men's Kurta - J. Cotton Kurta,8-Jan-25,1,Shipped
+842,LHE,Smartwatch - Xiaomi Mi Band 7,27-Jan-25,3,Shipped
+843,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,27-Nov-24,2,Shipped
+844,LHE,Wireless Earbuds - Audionic AirBuds 2,15-Jan-25,3,Shipped
+845,ISB,Gaming Mouse - Redragon M711 Cobra,13-Dec-24,3,Shipped
+846,LHE,Non-Stick Cookware Set - Prestige 5-Piece,30-Jan-25,3,Shipped
+847,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,19-Mar-24,3,Returned
+848,KHI,Men's Kurta - J. Cotton Kurta,21-Feb-24,1,Returned
+849,ISB,Electric Kettle - Dawlance 1.7L Kettle,17-Sep-24,3,Shipped
+850,ISB,Wireless Earbuds - Audionic AirBuds 2,7-Feb-24,3,Returned
+851,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,5-Aug-24,2,Shipped
+852,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,8-Feb-24,3,Shipped
+853,MUL,Power Bank - Romoss 20000mAh,12-Sep-24,1,Returned
+854,KHI,Women's Lawn Suit - Khaadi 3-Piece Lawn,19-Aug-24,2,Returned
+855,ISB,Smartwatch - Xiaomi Mi Band 7,14-Apr-24,3,Returned
+856,LHE,Non-Stick Cookware Set - Prestige 5-Piece,22-Oct-24,2,Returned
+857,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,4-Sep-24,2,Shipped
+858,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,2-Jan-24,2,Returned
+859,ISB,Men's Sneakers - Servis Cheetah Shoes,27-Oct-24,1,Shipped
+860,MUL,Wireless Earbuds - Audionic AirBuds 2,30-Jul-24,2,Shipped
+861,MUL,Power Bank - Romoss 20000mAh,12-Oct-24,2,Returned
+862,KHI,Power Bank - Romoss 20000mAh,18-Jun-24,3,Returned
+863,MUL,Non-Stick Cookware Set - Prestige 5-Piece,7-Apr-24,3,Shipped
+864,KHI,Women's Handbag - Stylo Leather Bag,7-Feb-24,2,Shipped
+865,KHI,Gaming Mouse - Redragon M711 Cobra,7-Mar-24,3,Shipped
+866,MUL,Smartwatch - Xiaomi Mi Band 7,23-Jul-24,1,Shipped
+867,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,9-Mar-24,2,Returned
+868,MUL,Men's Sneakers - Servis Cheetah Shoes,6-Feb-24,2,Returned
+869,MUL,Men's Sneakers - Servis Cheetah Shoes,18-Mar-24,3,Shipped
+870,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,17-Dec-24,2,Shipped
+871,LHE,Rice Cooker - Westpoint 1.8L Rice Cooker,15-Jan-24,1,Returned
+872,ISB,Smartwatch - Xiaomi Mi Band 7,6-Jul-24,3,Shipped
+873,KHI,Electric Kettle - Dawlance 1.7L Kettle,24-Jul-24,1,Returned
+874,KHI,Gaming Mouse - Redragon M711 Cobra,21-Nov-24,3,Shipped
+875,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,27-Aug-24,3,Shipped
+876,LHE,Smartwatch - Xiaomi Mi Band 7,24-Mar-24,3,Shipped
+877,MUL,Men's Sneakers - Servis Cheetah Shoes,29-Nov-24,2,Shipped
+878,MUL,Gaming Mouse - Redragon M711 Cobra,19-Mar-24,3,Shipped
+879,KHI,Men's Kurta - J. Cotton Kurta,26-Jan-24,1,Shipped
+880,ISB,Non-Stick Cookware Set - Prestige 5-Piece,10-Feb-24,3,Returned
+881,KHI,Wireless Earbuds - Audionic AirBuds 2,1-Jun-24,1,Returned
+882,ISB,Gaming Mouse - Redragon M711 Cobra,4-Jan-24,2,Shipped
+883,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,22-Mar-24,2,Shipped
+884,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,2-Sep-24,1,Shipped
+885,KHI,Men's Sneakers - Servis Cheetah Shoes,13-Sep-24,2,Returned
+886,MUL,Wireless Earbuds - Audionic AirBuds 2,6-Mar-24,3,Shipped
+887,ISB,Gaming Mouse - Redragon M711 Cobra,24-Jan-25,1,Returned
+888,KHI,Men's Sneakers - Servis Cheetah Shoes,15-Jan-24,3,Returned
+889,ISB,Smartwatch - Xiaomi Mi Band 7,27-Oct-24,2,Returned
+890,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,10-Jul-24,2,Shipped
+891,MUL,Wireless Earbuds - Audionic AirBuds 2,28-Jul-24,2,Returned
+892,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,15-Mar-24,3,Returned
+893,LHE,Women's Lawn Suit - Khaadi 3-Piece Lawn,13-Feb-24,1,Returned
+894,ISB,Men's Kurta - J. Cotton Kurta,28-Nov-24,3,Returned
+895,MUL,Non-Stick Cookware Set - Prestige 5-Piece,14-Apr-24,2,Returned
+896,KHI,Non-Stick Cookware Set - Prestige 5-Piece,25-May-24,1,Returned
+897,ISB,Women's Handbag - Stylo Leather Bag,10-Apr-24,2,Returned
+898,LHE,Gaming Mouse - Redragon M711 Cobra,13-Jan-24,2,Returned
+899,MUL,Non-Stick Cookware Set - Prestige 5-Piece,8-Dec-24,3,Returned
+900,MUL,Rice Cooker - Westpoint 1.8L Rice Cooker,18-Aug-24,1,Shipped
+901,LHE,Wireless Earbuds - Audionic AirBuds 2,27-May-24,1,Returned
+902,MUL,Electric Kettle - Dawlance 1.7L Kettle,12-Apr-24,2,Shipped
+903,KHI,Women's Handbag - Stylo Leather Bag,5-Nov-24,2,Shipped
+904,MUL,Men's Sneakers - Servis Cheetah Shoes,19-May-24,2,Shipped
+905,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,25-Feb-24,2,Returned
+906,MUL,Non-Stick Cookware Set - Prestige 5-Piece,4-Jul-24,3,Shipped
+907,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,9-Sep-24,1,Shipped
+908,MUL,Gaming Mouse - Redragon M711 Cobra,13-Jan-25,3,Returned
+909,KHI,Wall Clock - Quartz Designer Clock,24-Nov-24,1,Shipped
+910,MUL,Electric Kettle - Dawlance 1.7L Kettle,22-May-24,3,Returned
+911,LHE,Bluetooth Speaker - Audionic Mehfil Speaker,31-Dec-24,2,Shipped
+912,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,22-Apr-24,2,Returned
+913,MUL,Men's Sneakers - Servis Cheetah Shoes,24-May-24,3,Shipped
+914,MUL,Non-Stick Cookware Set - Prestige 5-Piece,3-Dec-24,3,Returned
+915,LHE,Power Bank - Romoss 20000mAh,12-Jan-25,3,Shipped
+916,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,5-Aug-24,2,Returned
+917,KHI,Women's Handbag - Stylo Leather Bag,29-Apr-24,3,Shipped
+918,KHI,Bluetooth Speaker - Audionic Mehfil Speaker,2-Sep-24,2,Returned
+919,KHI,Men's Sneakers - Servis Cheetah Shoes,22-Sep-24,1,Shipped
+920,LHE,Electric Kettle - Dawlance 1.7L Kettle,28-May-24,1,Shipped
+921,KHI,Men's Sneakers - Servis Cheetah Shoes,25-Mar-24,1,Shipped
+922,MUL,Non-Stick Cookware Set - Prestige 5-Piece,23-Oct-24,2,Returned
+923,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,10-Jun-24,2,Shipped
+924,MUL,Smartwatch - Xiaomi Mi Band 7,29-Jul-24,3,Returned
+925,LHE,Wall Clock - Quartz Designer Clock,25-Apr-24,3,Shipped
+926,KHI,Bed Sheet Set - Sapphire Cotton Bedsheet,8-Dec-24,3,Returned
+927,ISB,Smartwatch - Xiaomi Mi Band 7,20-Aug-24,2,Returned
+928,ISB,Non-Stick Cookware Set - Prestige 5-Piece,14-Apr-24,2,Returned
+929,MUL,Power Bank - Romoss 20000mAh,18-Mar-24,3,Returned
+930,KHI,Power Bank - Romoss 20000mAh,21-Jan-25,1,Shipped
+931,ISB,Men's Kurta - J. Cotton Kurta,13-Jul-24,2,Returned
+932,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,29-Dec-24,1,Shipped
+933,KHI,Wireless Earbuds - Audionic AirBuds 2,18-May-24,2,Returned
+934,KHI,Men's Kurta - J. Cotton Kurta,3-Jan-25,2,Returned
+935,MUL,Men's Kurta - J. Cotton Kurta,16-Feb-24,1,Shipped
+936,KHI,Non-Stick Cookware Set - Prestige 5-Piece,15-Oct-24,2,Shipped
+937,LHE,Men's Kurta - J. Cotton Kurta,1-Mar-24,3,Shipped
+938,LHE,Smartwatch - Xiaomi Mi Band 7,17-Nov-24,2,Returned
+939,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,12-Oct-24,2,Shipped
+940,LHE,Men's Kurta - J. Cotton Kurta,13-Jan-24,2,Shipped
+941,ISB,Bluetooth Speaker - Audionic Mehfil Speaker,11-Aug-24,1,Shipped
+942,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,19-Apr-24,1,Returned
+943,KHI,Women's Handbag - Stylo Leather Bag,21-May-24,2,Returned
+944,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,10-Mar-24,1,Returned
+945,MUL,Non-Stick Cookware Set - Prestige 5-Piece,17-Oct-24,1,Shipped
+946,KHI,Smartwatch - Xiaomi Mi Band 7,30-Aug-24,2,Shipped
+947,LHE,Gaming Mouse - Redragon M711 Cobra,11-Dec-24,1,Returned
+948,ISB,Men's Sneakers - Servis Cheetah Shoes,30-Nov-24,2,Shipped
+949,ISB,Electric Kettle - Dawlance 1.7L Kettle,26-Dec-24,3,Returned
+950,KHI,Men's Kurta - J. Cotton Kurta,20-Jun-24,3,Shipped
+951,KHI,Women's Lawn Suit - Khaadi 3-Piece Lawn,11-Oct-24,2,Shipped
+952,ISB,Men's Kurta - J. Cotton Kurta,6-Sep-24,1,Shipped
+953,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,13-Mar-24,1,Shipped
+954,MUL,Smartwatch - Xiaomi Mi Band 7,12-Dec-24,3,Returned
+955,LHE,Rice Cooker - Westpoint 1.8L Rice Cooker,5-Apr-24,2,Shipped
+956,LHE,Wall Clock - Quartz Designer Clock,9-Feb-24,2,Shipped
+957,MUL,Wall Clock - Quartz Designer Clock,29-Jan-24,1,Returned
+958,KHI,Smartwatch - Xiaomi Mi Band 7,2-Jan-25,3,Shipped
+959,ISB,Non-Stick Cookware Set - Prestige 5-Piece,23-Aug-24,1,Shipped
+960,ISB,Wall Clock - Quartz Designer Clock,1-Jan-24,1,Returned
+961,ISB,Gaming Mouse - Redragon M711 Cobra,3-May-24,3,Shipped
+962,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,7-Jul-24,2,Shipped
+963,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,30-Sep-24,3,Returned
+964,ISB,Rice Cooker - Westpoint 1.8L Rice Cooker,20-Mar-24,3,Shipped
+965,LHE,Men's Formal Shirt - Bonanza Satrangi Shirt,5-Dec-24,3,Returned
+966,LHE,Electric Kettle - Dawlance 1.7L Kettle,25-Nov-24,2,Returned
+967,MUL,Rice Cooker - Westpoint 1.8L Rice Cooker,25-Jan-25,2,Shipped
+968,KHI,Smartwatch - Xiaomi Mi Band 7,11-Jun-24,1,Returned
+969,ISB,Women's Handbag - Stylo Leather Bag,13-Nov-24,3,Shipped
+970,ISB,Bed Sheet Set - Sapphire Cotton Bedsheet,24-Jun-24,3,Shipped
+971,KHI,Men's Sneakers - Servis Cheetah Shoes,13-Jun-24,2,Shipped
+972,LHE,Wireless Earbuds - Audionic AirBuds 2,16-Dec-24,1,Returned
+973,KHI,Power Bank - Romoss 20000mAh,24-Aug-24,1,Shipped
+974,MUL,Bluetooth Speaker - Audionic Mehfil Speaker,23-Aug-24,3,Shipped
+975,ISB,Power Bank - Romoss 20000mAh,25-May-24,2,Shipped
+976,KHI,Women's Handbag - Stylo Leather Bag,19-Jun-24,2,Returned
+977,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,18-Jan-25,1,Shipped
+978,KHI,Electric Kettle - Dawlance 1.7L Kettle,29-Apr-24,3,Shipped
+979,KHI,Men's Kurta - J. Cotton Kurta,15-Jan-24,3,Returned
+980,MUL,Women's Handbag - Stylo Leather Bag,12-Jan-24,2,Shipped
+981,ISB,Electric Kettle - Dawlance 1.7L Kettle,26-Sep-24,1,Shipped
+982,MUL,Bed Sheet Set - Sapphire Cotton Bedsheet,1-Jan-24,1,Shipped
+983,MUL,Men's Formal Shirt - Bonanza Satrangi Shirt,3-May-24,2,Shipped
+984,MUL,Men's Sneakers - Servis Cheetah Shoes,8-Apr-24,3,Returned
+985,LHE,Bed Sheet Set - Sapphire Cotton Bedsheet,17-Jul-24,1,Returned
+986,LHE,Electric Kettle - Dawlance 1.7L Kettle,24-Nov-24,2,Shipped
+987,ISB,Men's Sneakers - Servis Cheetah Shoes,16-Dec-24,2,Shipped
+988,ISB,Electric Kettle - Dawlance 1.7L Kettle,15-Mar-24,1,Shipped
+989,KHI,Men's Formal Shirt - Bonanza Satrangi Shirt,16-Jul-24,2,Returned
+990,KHI,Rice Cooker - Westpoint 1.8L Rice Cooker,5-Aug-24,3,Returned
+991,MUL,Women's Lawn Suit - Khaadi 3-Piece Lawn,16-May-24,3,Returned
+992,LHE,Gaming Mouse - Redragon M711 Cobra,24-Jan-24,2,Returned
+993,MUL,Women's Handbag - Stylo Leather Bag,25-Apr-24,2,Returned
+994,KHI,Wireless Earbuds - Audionic AirBuds 2,31-Jan-25,1,Shipped
+995,MUL,Smartwatch - Xiaomi Mi Band 7,7-Oct-24,3,Returned
+996,KHI,Power Bank - Romoss 20000mAh,29-Dec-24,3,Shipped
+997,ISB,Men's Kurta - J. Cotton Kurta,5-Mar-24,3,Returned
+998,ISB,Power Bank - Romoss 20000mAh,10-Oct-24,2,Returned
+999,ISB,Women's Lawn Suit - Khaadi 3-Piece Lawn,27-Dec-24,1,Returned
+1000,MUL,Electric Kettle - Dawlance 1.7L Kettle,12-Apr-24,2,Shipped
