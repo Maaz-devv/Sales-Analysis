@@ -65,6 +65,7 @@ Interactive **city slicers** on the left and a **date slicer** on the top right 
 Below is the Overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/Maaz-devv/Sales-Analysis/blob/main/Ecommerce%20Project.pbix).
 
 
+![Dashboard SnapShot](https://github.com/user-attachments/assets/fa64b882-230e-4562-80ec-34925cc6e871)
 
 ---
 ## Deep Dive Insights
