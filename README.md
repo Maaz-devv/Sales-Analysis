@@ -47,6 +47,7 @@ Total Rows: **1,000 records**
 
 ### Entity-Relationship Diagram (ERD)
 The ERD below provides an overview of the database structure and table relationships.
+![ERD](https://github.com/user-attachments/assets/71a47bc6-beff-4654-ad18-8a4b34e5555d)
 
 ---
 # Executive Summary
