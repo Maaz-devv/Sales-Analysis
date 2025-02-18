@@ -1,5 +1,14 @@
 # NeoNest eCommerce Sales Analysis
 
+# Table of Contents
+
+- [Background & Overview](#background--overview)
+- [Data Structure & Initial Deck](#data-structure--initial-deck)
+- [Executive Summary](#executive-summary)
+- [Deep Dive Insights](#deep-dive-insights)
+- [Recommendations](#recommendations)
+
+
 ## Background & Overview
 This project focuses on analyzing **NeoNest**, an eCommerce store specializing in **electronics, fashion, and home goods**.
 
