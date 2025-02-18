@@ -174,7 +174,7 @@ WHERE Products IN (
     'Wall Clock - Quartz Designer Clock'
 );
 
--- This query I used to connect MySQL to POWER BI (using Direct query method)
+-- This query I used to connect MySQL to POWER BI (using Direct Query method)
 SELECT  
     o.Order_ID,  
     CAST(o.Order_Date AS DATE) AS Order_Date,  
