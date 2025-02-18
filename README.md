@@ -62,8 +62,7 @@ The **monthly line chart** provides a time-based perspective of these five KPIs�
 On the right, a **product-level table** details each item’s **category, price, shipped and returned figures, as well as contribution to total sales**. This granular view shows which products drive the bulk of revenue—and which may be contributing heavily to returns.
 
 Interactive **city slicers** on the left and a **date slicer** on the top right enable focused analysis by region or specific time periods, making it easier to isolate where (and when) returns spike or sales surge.
-
-
+Below is the Overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded
 ---
 ## Deep Dive Insights
 ### 1. Sales & Revenue Trends
