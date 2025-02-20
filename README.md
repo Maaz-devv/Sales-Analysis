@@ -38,7 +38,7 @@ The company possesses significant data on its **sales, marketing efforts, operat
 
 An interactive PowerBI dashboard can be downloaded [here](https://github.com/Maaz-devv/Sales-Analysis/blob/main/Ecommerce%20Project.pbix).<br>
 The SQL queries utilize to inspect,clean,organize and prepare data for the dashboard can be found [here](https://github.com/Maaz-devv/Sales-Analysis/blob/main/Ecommerce.sql).<br>
-The SQL query utilized to fetch data from the database and connect to PowerBI  <br>
+The SQL query utilized to fetch data from the database and connect to PowerBI [here](https://github.com/Maaz-devv/Sales-Analysis/blob/main/connector.sql)<br>
 
 ---
 ## Data Structure & Initial Deck
