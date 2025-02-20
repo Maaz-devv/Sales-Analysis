@@ -70,6 +70,8 @@ The ERD below provides an overview of the database structure and table relations
 - **Power BI Connection:**  
   - Connected to the database using DirectQuery (via ODBC).  
   - Imported the data into Power BI to create interactive dashboards.
+- **DAX Measure Development:**  
+  - Developed key DAX measures to calculate KPIs and enable dynamic visuals
 ---
 # Executive Summary
 
