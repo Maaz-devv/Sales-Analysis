@@ -4,6 +4,7 @@
 
 - [Background & Overview](#background--overview)
 - [Data Structure & Initial Deck](#data-structure--initial-deck)
+- [Steps Taken](#steps-taken)
 - [Executive Summary](#executive-summary)
 - [Deep Dive Insights](#deep-dive-insights)
 - [Recommendations](#recommendations)
@@ -55,6 +56,7 @@ The ERD below provides an overview of the database structure and table relations
 ![ERD](https://github.com/user-attachments/assets/71a47bc6-beff-4654-ad18-8a4b34e5555d)
 
 ---
+# Steps Taken
 - **Dataset Generation:**  
   - Created the dataset using Python scripts to gather and format raw data.
 
