@@ -36,9 +36,9 @@ The company possesses significant data on its **sales, marketing efforts, operat
   - **Categories generating the highest sales and orders**  
   - **Category performance on a regional basis**
 
-An interactive PowerBI dashboard can be downloaded [here](https://github.com/Maaz-devv/Sales-Analysis/blob/main/Ecommerce%20Project.pbix).
-The SQL queries utilize to inspect,clean,organize and prepare data for the dashboard can be found
-The SQL query utilized to fetch data from the database and connect to PowerBI
+An interactive PowerBI dashboard can be downloaded [here](https://github.com/Maaz-devv/Sales-Analysis/blob/main/Ecommerce%20Project.pbix).<br>
+The SQL queries utilize to inspect,clean,organize and prepare data for the dashboard can be found <br>
+The SQL query utilized to fetch data from the database and connect to PowerBI  <br>
 
 ---
 ## Data Structure & Initial Deck
