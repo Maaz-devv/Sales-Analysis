@@ -55,6 +55,20 @@ The ERD below provides an overview of the database structure and table relations
 ![ERD](https://github.com/user-attachments/assets/71a47bc6-beff-4654-ad18-8a4b34e5555d)
 
 ---
+- **Dataset Generation:**  
+  - Created the dataset using Python scripts to gather and format raw data.
+
+- **Data Transformation & Modeling in SQL:**  
+  - Performed data transformation (e.g., changing data types, cleaning data).  
+  - Built connections between tables to establish a robust data model.
+
+- **Data Extraction:**  
+  - Wrote a specific SQL query to fetch the transformed data from the database.
+
+- **Power BI Connection:**  
+  - Connected to the database using DirectQuery (via ODBC).  
+  - Imported the data into Power BI to create interactive dashboards.
+---
 # Executive Summary
 
 After reviewing **NeoNest’s monthly performance metrics**, the dashboard reveals a total of **4.58M** in **Sales** across **1,000 Orders**, highlighting consistent customer demand for **electronics, fashion, and home goods**. However, two metrics stand out as potential concerns:
