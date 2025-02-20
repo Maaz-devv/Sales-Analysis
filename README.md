@@ -122,7 +122,7 @@ Below is the Overview page from the PowerBI dashboard and more examples are incl
  ┣ 📂 sql_queries/
  ┣ 📂 dashboards/
  ┣ 📜 README.md
- ┗ 📜 LICENSE
+ 
 ```
 ---
 📌 **Contributors:** [Muhammad Maaz]
